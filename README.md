@@ -8,6 +8,7 @@
 - Frontend & Testing: Javascript 
 - Blockchain Interaction: [Web3](https://web3js.readthedocs.io/en/v1.5.2/)
 - Ethereum Wallet: [MetaMask](https://metamask.io/)
+- 3D Javascript library: [ThreeJS](https://threejs.org/docs/index.html)
 
 ## Requirements For Initial Project Setup
 - Install [MetaMask](https://metamask.io/) in the browser.
